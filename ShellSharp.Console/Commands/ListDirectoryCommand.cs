@@ -8,6 +8,7 @@ namespace ShellSharp.Console.Commands
     {
         public Task Execute(Shell shell, string[] arguments)
         {
+
             throw new System.NotImplementedException();
         }
     }
